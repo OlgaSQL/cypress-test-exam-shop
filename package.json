@@ -1,0 +1,19 @@
+{
+  "name": "cypress-test-exam-shop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "CYPRESS_BASE_URL=https://juice-shop-sanitarskyi.herokuapp.com cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OlgaSQL/cypress-test-exam-shop.git"
+  },
+  "author": "OlgaZ",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/OlgaSQL/cypress-test-exam-shop/issues"
+  },
+  "homepage": "https://github.com/OlgaSQL/cypress-test-exam-shop#readme"
+}
